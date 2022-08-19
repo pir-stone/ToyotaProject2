@@ -1,4 +1,4 @@
-package Week1.Cars;
+package Week1.Cars.Car;
 
 import Week1.Parts.Enums.TransmType;
 import Week1.Parts.Wheels;
@@ -47,6 +47,6 @@ public abstract class Car {
     }
 
     public void Run{
-        if ()
+        System.out.println("Машина едет");
     }
 }

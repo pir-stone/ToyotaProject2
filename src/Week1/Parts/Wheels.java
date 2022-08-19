@@ -5,7 +5,7 @@ import Week1.Parts.Enums.Diametr;
 public class Wheels {
     public int countwheels;
     Diametr diametr;
-    public Wheels(Diametr diametr) {
+    public Wheels() {
         this.diametr = diametr;
     }
 
